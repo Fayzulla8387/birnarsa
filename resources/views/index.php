@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1>   Men keldim </h1>fixedd<h2>yangi text</h2> <h3> Jasurbek Galdi </h3>
+
 </body>
 </html>
